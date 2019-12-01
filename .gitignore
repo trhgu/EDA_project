@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#file
+EDA_final_test.ipynb
+
 # C extensions
 *.so
 
