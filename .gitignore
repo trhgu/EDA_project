@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#file
+#my_own
 EDA_final_test.ipynb
+*.indd
+*.idlk
 
 # C extensions
 *.so
