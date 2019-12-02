@@ -14,7 +14,7 @@
 
 아래 그림은 본 프로젝트의 데이터 분석 과정을 보여준다.
 
-![연구과정](images/process.png)
+![연구과정](images/process.PNG)
 
 ## 4. 데이터 수집
 
@@ -98,7 +98,7 @@
 |iaip       | 201901월            | replace 함수 ,데이터 슬라이싱         |iaip_df['date'].str.replace("월", "").str[0:4] + "-" + iaip_df["date"].str[4:6] + "-01"|
 |googletrend| 2019-01-04          | 데이터 슬라이싱                       |googletrend_df['date'].str[0:4] + "-"+ googletrend_df['date'].str[5:7] + "-01"|
 
-## 6. 데이터 시각화
+## 6. 분석
 
 ### 6.1 변수간 관계확인
 
